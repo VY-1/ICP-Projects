@@ -8,4 +8,6 @@ actor {
   let b: Int = Float.toInt(Float.ceil(a));  
 
   Debug.print(debug_show(b));
+
+  
 };
